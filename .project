@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Final TestWebApp</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/com/example/fw/AppManager.java</name>
+			<type>1</type>
+			<location>/Users/Ivan/Desktop/Java/9 teststore (super final)-1/src/com/example/fw/AppManager.java</location>
+		</link>
+		<link>
+			<name>src/com/example/fw/FillGroupForms.java</name>
+			<type>1</type>
+			<location>/Users/Ivan/Desktop/Java/9 teststore (super final)-1/src/com/example/fw/FillGroupForms.java</location>
+		</link>
+		<link>
+			<name>src/com/example/fw/GroupData.java</name>
+			<type>1</type>
+			<location>/Users/Ivan/Desktop/Java/9 teststore (super final)-1/src/com/example/fw/GroupData.java</location>
+		</link>
+		<link>
+			<name>src/com/example/fw/GroupHelper.java</name>
+			<type>1</type>
+			<location>/Users/Ivan/Desktop/Java/9 teststore (super final)-1/src/com/example/fw/GroupHelper.java</location>
+		</link>
+		<link>
+			<name>src/com/example/fw/HelperBase.java</name>
+			<type>1</type>
+			<location>/Users/Ivan/Desktop/Java/9 teststore (super final)-1/src/com/example/fw/HelperBase.java</location>
+		</link>
+		<link>
+			<name>src/com/example/fw/LoginInfo.java</name>
+			<type>1</type>
+			<location>/Users/Ivan/Desktop/Java/9 teststore (super final)-1/src/com/example/fw/LoginInfo.java</location>
+		</link>
+		<link>
+			<name>src/com/example/fw/NavHelper.java</name>
+			<type>1</type>
+			<location>/Users/Ivan/Desktop/Java/9 teststore (super final)-1/src/com/example/fw/NavHelper.java</location>
+		</link>
+		<link>
+			<name>src/com/example/fw/SeleniumHelper.java</name>
+			<type>1</type>
+			<location>/Users/Ivan/Desktop/Java/9 teststore (super final)-1/src/com/example/fw/SeleniumHelper.java</location>
+		</link>
+		<link>
+			<name>src/com/example/tests/GroupGenerator.java</name>
+			<type>1</type>
+			<location>/Users/Ivan/Desktop/Java/9 teststore (super final)-1/src/com/example/tests/GroupGenerator.java</location>
+		</link>
+		<link>
+			<name>src/com/example/tests/MyTestBase.java</name>
+			<type>1</type>
+			<location>/Users/Ivan/Desktop/Java/9 teststore (super final)-1/src/com/example/tests/MyTestBase.java</location>
+		</link>
+		<link>
+			<name>src/com/example/tests/StoreTest.java</name>
+			<type>1</type>
+			<location>/Users/Ivan/Desktop/Java/9 teststore (super final)-1/src/com/example/tests/StoreTest.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
